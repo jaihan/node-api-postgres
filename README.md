@@ -2,10 +2,32 @@
 
 Build a rest api using nodejs/express.js with postgres db.
 
-In the project directory, you can:
+### Technologies implemented:
 
-## Setup
-`$ npm install`
+-   [Expressjs](https://expressjs.com/) 
+-   [PostgreSQL](https://www.postgresql.org/)
 
-## Run
-`$ node server.js` and go to [http://localhost:8080](http://localhost:8080)
+## Installation
+
+```bash
+$ npm install
+```
+
+## Setting up the database for development 
+
+PostgreSQL database connection options are shown in the following table:
+
+| Option   | Development |
+| -------- | ----------- 
+| Host     | localhost   |
+| Port     | 5432        |
+| Username | postgres    |
+| Password | postgres    |
+| Database | node-api    |  
+
+## Running the app
+
+```bash
+# development
+$ node index.js
+```
