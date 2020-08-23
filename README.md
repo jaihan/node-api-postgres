@@ -31,3 +31,7 @@ PostgreSQL database connection options are shown in the following table:
 # development
 $ node index.js
 ```
+
+## SWagger API docs
+Swagger documentation will be available at [http://localhost:3000/api-docs/](http://localhost:3000/api-docs/)
+
