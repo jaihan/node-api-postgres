@@ -1,6 +1,6 @@
 # node-api-postgres
 
-Build a rest api using nodejs/express.js with postgres db.
+Build a rest api using nodejs/express.js, swagger and postgres db.
 
 ### Technologies implemented:
 
